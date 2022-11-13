@@ -1,0 +1,12 @@
+baseURL = 'http://entish.org/deeptext'
+languageCode = 'en-us'
+title = 'Deep Text'
+theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 30
+googleAnalytics = ""
+enableRobotsTXT = true
+
+publishdir = "/Users/willf/entish-org/deeptext"
